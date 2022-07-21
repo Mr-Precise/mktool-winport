@@ -1,4 +1,13 @@
-# mktool v5.4
+# mktool v5.4 Windows port
+
+# It doesn't work yet. Absolutely
+Already done:  
+Win64 build  
+- mkbootimg.exe  
+- unpackbootimg.exe  
+- loki.exe  
+Need to do:  
+Rewrite mktool java code.  
 
 ![image](tools/menu.png)
 
